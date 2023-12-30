@@ -4,3 +4,6 @@ https://www.kaggle.com/datasets/abedkhooli/arabic-100k-reviews
 
 poems
 https://www.kaggle.com/datasets/fahd09/arabic-poetry-dataset-478-2017
+
+arabic dataset links
+https://www.repustate.com/blog/arabic-natural-language-processing/
